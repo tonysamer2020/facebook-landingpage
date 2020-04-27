@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container {
+    width: 950px;
+    margin: auto;
+}
+.header {
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+h2 {
+    color:white;
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+.logo {
+    width: 50%;
+    float: left;
+    color: white;
+}
+
+.form {
+    width: 50%;
+    float: left;
+    padding-top: 30px;
+    color: white;
+}
+.user {
+    float: left;
+    padding-right: 15px;
+    
+}
+
+label {
+    font-size: 15px;
+}
+a {
+    font-size: 15px;
+    color: white;
+}
+
+input[type=submit] {
+    width: 45px;
+    height: 16px;
+    border: 0;
+    margin-top: 19px;
+}
+.content {
+    width: 100%;
+}
+.image{
+ 
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 150px;
+}
+.form2 {
+    float: right;
+    width: 50%;
+    
+}
+
+p {
+    font-size: 25px;
+    color: #3b5998;
+}
+
+span {
+    display: block;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.form2 h2 {
+    color: black;
+}
+
+.form2 span {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 15px;
+}
+.form2 .in {
+    
+    display: block;
+    width: 80%;
+    margin-bottom: 10px;
+    padding: 10px 0px 10px 5px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid #DDD;
+    outline: 0;
+}
+
+.inp {
+    height: 5px;
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 15px 0px 15px 5px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid #DDD;
+    outline: 0;
+}
+
+.form2 a {
+
+    color: #00f;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.form2 label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.form2 span.spanLast {
+
+    font-size: 10px;
+}
+
+.form2 span.spanLast a {
+
+    font-size: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+.Signup {
+
+    width: 180px;
+    height: 50px;
+    background: green;
+    color: white;
+    border-radius: 5px;
+    outline: 0;
+    border: none;
+    font-size: 22px;
+
+
+}
